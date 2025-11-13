@@ -66,7 +66,6 @@ tsfresh_features.csv: Contains features extracted using tsfresh.
 
 combined_features.csv: A consolidated file combining both manual and tsfresh features.
 
-These files are available for download in the repository.
 
 🚀 Next Steps
 
